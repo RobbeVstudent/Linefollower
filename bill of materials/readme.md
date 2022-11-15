@@ -13,5 +13,6 @@
 |8|Li-ion batterij|CGR18650CG 3,2V-4,2V|Niuew|  |2|  |
 |9|Batterijlader|Fugasun|Nieuw|  |1|  |
 |10|40x Pin header|pinconnectoren female|Nieuw|0,30|4|1,20|
-|11|Stuur bouten|Bout+Moer vooraan Linefolower|Recup|/|2|/|
+|11|Stuur bouten|Bout+Moer vooraan Linefollower|Recup|/|2|/|
 |12|Dupont kabels|Connecties tussen boardjes|Recup|/|13|/|  
+|13|Batterijhouder|Houder op Linefollower|Nieuw|  |1| |
