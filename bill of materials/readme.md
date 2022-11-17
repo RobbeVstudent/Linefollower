@@ -17,3 +17,4 @@
 |12|Dupont kabels|Connecties tussen boardjes|Recup|/|13|/|  
 |13|Batterijhouder|Houder op Linefollower|Nieuw|1,75|1|1,75|
 |14|USB-kabel|mini-USB communicatie ARduino|Recup|/|1|/|
+|15|Soldeersel|Rolletje solder|Recup|/|1|/|
