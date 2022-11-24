@@ -18,3 +18,5 @@
 |13|Batterijhouder|Houder op Linefollower|Nieuw|1,75|1|1,75|
 |14|USB-kabel|mini-USB communicatie ARduino|Recup|/|1|/|
 |15|Soldeersel|Rolletje solder|Recup|/|1|/|
+|16|Secondelijm|connecteren batterijhouder|Recup|/|1|/|
+|17|éénpolige schakelaar|onderbreken voeding|Nieuw|1,05|1|1,05|
