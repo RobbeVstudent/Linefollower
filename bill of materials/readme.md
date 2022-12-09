@@ -20,3 +20,4 @@
 |15|Soldeersel|Rolletje solder|Recup|/|1|/|
 |16|Secondelijm|connecteren batterijhouder|Recup|/|1|/|
 |17|éénpolige schakelaar|onderbreken voeding|Nieuw|1,05|1|1,05|
+|18|chasis| karton|recup|/|1|/|
