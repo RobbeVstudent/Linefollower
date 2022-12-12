@@ -15,6 +15,7 @@ HANDLEIDING
 <br />
 FINALE CODE
 <br />
+Elektronisch schema plan A
 <br />
   
 ## specifications
