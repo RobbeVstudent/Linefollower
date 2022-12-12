@@ -42,12 +42,24 @@ De sensoren zijn nu correct gekalibreert.
 <br />
 ### settings
 De robot rijdt stabiel met volgende parameters:
+<br />
 cycle:2500
+<br />
 power: 85
+<br />
 diff: 0.15
+<br />
 kp: 2.7
+<br />
 kd: 0.5
+<br />
 ki: 0
 
 ### start/stop button
-uitleg locatie + werking start/stop button
+De start/stop button bevindt zich aan de binnenkant van de pick-up carroserie naast de Bluetooth module.
+<br />
+Startprocedure met button: Plaats de wagen op het circuit, op een lijn. Wanneer de gebruiker op de knop drukt (verbonden met de interrupt pin 2) zal een drie keer knipperen (drie seconden) voordat het wagentje vertrekt.
+<br />
+Stopprocedure met button: Wanneer men nog maals op de knop drukt (er wordt ook gekeken of de variabele 'run' op true staat) zal de variabele 'run' onmiddelijk op false gezet worden en zal het wagentje onmiddelijk stoppen.
+<br />
+Praktisch kan het wagentje stoppen met de button op het circuit zeer uitdagend zijn, het gebruik van de button is echter wel geschikt wanneer de gebruiker de auto in de hand heeft.
