@@ -11,7 +11,7 @@ Instructable
 <br />
 Proof of concept DRAADLOZE COMMUNICATIE
 <br />
-HANDLEIDING
+GEBRUIKSAANWIJZING
 <br />
 FINALE CODE
 <br />
