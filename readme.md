@@ -1,6 +1,6 @@
 # LineFollower
 <br />
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
+Een hopelijk volledige repository die ik als template gebruikte om een eigen repository te starten voor mijn linefollower project!!
 <br />
 <br />
 [picture]
@@ -9,21 +9,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: Arduino Nano met microcontroller ATMEGA328P
 <br />
-motors: 
+motors: 6VDC 1:50 Gearmotor
 <br />
-h-bridge:
+h-bridge: DRV8833
 <br />
-sensors:
+sensors:QTR-8A
 <br />
-batteries:
+batteries: CGR 18650 CG 
 <br />
-wireless communication:
+wireless communication: Bleutooth HC-05
 <br />
-distance sensor - motors:
+distance sensor - motors: 80 mm
 <br />
-weight:
+weight: 432 g
 <br />
-speed: 
+speed: 0.690 m/s
 <br />
