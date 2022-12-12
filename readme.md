@@ -34,7 +34,7 @@ wireless communication: Bleutooth HC-05
 <br />
 distance sensor - motors: 80 mm
 <br />
-weight: 432 g
+weight: 298 g
 <br />
 speed: 0.690 m/s
 <br />
