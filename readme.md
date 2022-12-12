@@ -4,7 +4,15 @@ Een hopelijk volledige repository die ik als template gebruikte om een eigen rep
 <br />
 <br />
 [image](https://user-images.githubusercontent.com/114758363/207027151-a8de0a29-9542-4731-a571-419e044b7489.png)
-
+# TE QOUTEREN
+<br />
+Instructable
+<br />
+Proof of concept DRAADLOZE COMMUNICATIE
+<br />
+HANDLEIDING
+<br />
+FINALE CODE
 <br />
 <br />
   
