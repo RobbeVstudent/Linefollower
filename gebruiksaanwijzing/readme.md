@@ -63,3 +63,14 @@ Startprocedure met button: Plaats de wagen op het circuit, op een lijn. Wanneer 
 Stopprocedure met button: Wanneer men nog maals op de knop drukt (er wordt ook gekeken of de variabele 'run' op true staat) zal de variabele 'run' onmiddelijk op false gezet worden en zal het wagentje onmiddelijk stoppen.
 <br />
 Praktisch kan het wagentje stoppen met de button op het circuit zeer uitdagend zijn, het gebruik van de button is echter wel geschikt wanneer de gebruiker de auto in de hand heeft.
+<br />
+### Veiligheid
+Deze line follower is niet bestand tegen de kleinste druppel vocht
+<br />
+Deze line follower zal niet optimaal presteren op stoffige of zeer gladde ondergronden
+<br />
+Deze line follower is NIET conform het AREI (mist elektrische isolatie op sommige locaties)
+<br />
+Deze line follower gebruiken brengt risico's met zich mee met lichamelijk letsel tot gevolg: struikelen, ledematen in wielen,...
+<br />
+Het gebruik van deze line follower kan plezier met zich meebrengen.
